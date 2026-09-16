@@ -1,0 +1,2231 @@
+[
+  {
+    "titulo": "Acaramelados",
+    "tituloCoreano": "이런 엿같은 사랑",
+    "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.8 / 10",
+    "sinopsis": "Una ambiciosa fiscal pierde la memoria y se muda con un entrenador de boxeo que afirma ser su novio. ¿Será un golpe de suerte para encontrar el amor verdadero?",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/1",
+        "iframeSrc": "https://ok.ru/videoembed/15441492576823?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/2",
+        "iframeSrc": "https://ok.ru/videoembed/15441492707895?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/3",
+        "iframeSrc": "https://ok.ru/videoembed/15441492249143?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/4",
+        "iframeSrc": "https://ok.ru/videoembed/15441492642359?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/5",
+        "iframeSrc": "https://ok.ru/videoembed/15441490872887?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/6",
+        "iframeSrc": "https://ok.ru/videoembed/15441491659319?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/7",
+        "iframeSrc": "https://ok.ru/videoembed/15441491331639?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/8",
+        "iframeSrc": "https://ok.ru/videoembed/15441491135031?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/9",
+        "iframeSrc": "https://ok.ru/videoembed/15441490479671?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/10",
+        "iframeSrc": "https://ok.ru/videoembed/15441490348599?autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/11",
+        "iframeSrc": "https://ok.ru/videoembed/15441490414135?autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/4351/acaramelados/temporada/1/episodio/12",
+        "iframeSrc": "https://ok.ru/videoembed/15441490545207?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Amor en la puerta de al lado",
+    "tituloCoreano": "엄마친구아들",
+    "poster": "https://image.tmdb.org/t/p/w500/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.7 / 10",
+    "sinopsis": "Bae Seok Ryu siempre ha sido una persona destacada y llena de energía. Después de graduarse de la universidad, fue contratada por un gran conglomerado global como director de proyectos. Sin embargo, un incidente en su trabajo la lleva a renunciar y quedarse desempleada, enfrentándose a una crisis personal. En medio de esta crisis, Bae Seok Ryu se reencuentra con Choi Seung Hyo, el hijo de la amiga de su madre. Él es el joven arquitecto más destacado del país y dirige el taller de arquitectura \"In\". No solo es casi perfecto como arquitecto, sino que también es muy atractivo y tiene una gran personalidad. Desde que sus madres se hicieron amigas cuando tenían cuatro años, ambos han compartido muchas experiencias, incluyendo momentos embarazosos que Seung Hyo quiere borrar de su vida. Ahora, ya adultos, sus caminos se cruzan de nuevo cuando Seok Ryu, tratando de reiniciar su vida defectuosa, reaparece en la pacífica vida de Seung Hyo.",
+    "episodiosPosters": [],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/1",
+        "iframeSrc": "https://e.img-webp.com/video/065982e894fcde21153454b2ea4b2a8a?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/2",
+        "iframeSrc": "https://e.img-webp.com/video/51ff210a6efc641a4a5722c7b311deac?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/3",
+        "iframeSrc": "https://e.img-webp.com/video/7d5047f570e6c05c4040f08aa0b1e3a5?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/4",
+        "iframeSrc": "https://e.img-webp.com/video/5677498ba2a6142dfd3aa5cdc8bb687c?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/5",
+        "iframeSrc": "https://e.img-webp.com/video/e7f9ef5ab27988091ed7ba2cae40384e?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/6",
+        "iframeSrc": "https://e.img-webp.com/video/16dd8c942ad630be7e5a12b681b3f5c4?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/7",
+        "iframeSrc": "https://e.img-webp.com/video/0390aff9c68eeb7b64fbebe21c878de3?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/8",
+        "iframeSrc": "https://e.img-webp.com/video/2eac42424d12436bdd6a5b8a88480cc3?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/9",
+        "iframeSrc": "https://e.img-webp.com/video/cd50a6640d6284992905dc447fd7701d?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/10",
+        "iframeSrc": "https://e.img-webp.com/video/df5665df072805334c14ca0c79bbe794?autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/11",
+        "iframeSrc": "https://e.img-webp.com/video/7884205c412107bdfe1dd6d1356c1d56?autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/12",
+        "iframeSrc": "https://e.img-webp.com/video/dd32c0fc8172acd5312c1089a5aa4d33?autoplay=1"
+      },
+      {
+        "numero": 13,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/13",
+        "iframeSrc": "https://e.img-webp.com/video/8ab84c57bf234ea2e3bf8330b47c2db1?autoplay=1"
+      },
+      {
+        "numero": 14,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/14",
+        "iframeSrc": "https://e.img-webp.com/video/29a83a8a9641bb860a679d7e5ba52d26?autoplay=1"
+      },
+      {
+        "numero": 15,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/15",
+        "iframeSrc": "https://e.img-webp.com/video/785cf0a5def4977e0210f07e0f925fa1?autoplay=1"
+      },
+      {
+        "numero": 16,
+        "urlPagina": "https://www.pandrama.tv/titulo/1969/amor-en-la-puerta-de-al-lado/temporada/1/episodio/16",
+        "iframeSrc": "https://e.img-webp.com/video/cbd7fb1bba4de3486f76147a75f3ec89?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Así aprenderás",
+    "tituloCoreano": "참교육",
+    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.9 / 10",
+    "sinopsis": "A los maestros les cuesta disciplinar a los alumnos y, a menudo, ni siquiera tienen la voluntad de hacerlo. La autoridad de los docentes en el aula se resiente, lo que genera graves problemas sociales. La Asamblea Nacional y el Ministro de Educación aprueban la Enmienda a la Ley de Protección de los Derechos Docentes. Con la aprobación de la ley, se crea una nueva organización gubernamental: la Oficina de Protección de los Derechos Educativos. Na Hwa Jin pertenece a la Oficina de Protección de los Derechos Educativos. Es enviado a una escuela con problemas como supervisor. Allí puede educar a los alumnos sin restricciones ni limitaciones.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/v7TeS7axjt1GVs466xDe2zTdjcx.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/2cS6yBRF0v7eTFekaSaMtNHhOcr.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/lsYCxY52UkU1tqnviMc9iO0wsXj.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/y0GLxdY9hhHH3Cr6PlH4bL89Sza.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/jOJU4d6vJMuKd5qsOIfC8MAN0RN.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/5UGkIWxXCXWe7cqwiZP73UvbXbE.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/hVjPp718P5X67n6q6nkWNj9iqhv.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/toovTpmURzWw7WdX5eNEUVVeM9p.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/1I33eidUEq15l9jur4nadKSXpHl.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/1",
+        "iframeSrc": "https://bysekoze.com/e/90e22jku8awa?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/2",
+        "iframeSrc": "https://bysekoze.com/e/hlgujitw6yda?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/3",
+        "iframeSrc": "https://bysekoze.com/e/dbagvtpb7690?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/4",
+        "iframeSrc": "https://bysekoze.com/e/clajf3aaoz26?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/5",
+        "iframeSrc": "https://bysekoze.com/e/up4m3y5202fv?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/6",
+        "iframeSrc": "https://bysekoze.com/e/sx6ctf8bpz8l?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/7",
+        "iframeSrc": "https://bysekoze.com/e/692tet8ubgmw?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/8",
+        "iframeSrc": "https://bysekoze.com/e/emagf8e3gzey?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/9",
+        "iframeSrc": "https://bysekoze.com/e/59dewa2hznso?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/4187/asi-aprenderas/temporada/1/episodio/10",
+        "iframeSrc": "https://bysekoze.com/e/z3f532so9ybo?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Belleza verdadera",
+    "tituloCoreano": "여신강림",
+    "poster": "https://image.tmdb.org/t/p/w500/iUF647sSCbKeJ5Q6eHVujWTQmtg.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": null,
+    "sinopsis": "[True Beauty] Después de ver vídeos de belleza en Internet, una tímida fanática del cómic domina el arte del maquillaje y ve cómo su posición social se dispara cuando se convierte en la chica más bonita de su escuela, literalmente, de la noche a la mañana. ¿Pero su estatus de élite será de corta duración? ¿Cuánto tiempo puede ella mantener su \"yo real\" en secreto? ¿Y qué hay de ese chico lindo que le gusta? ¿Te imaginas si se enterara de la verdad? Lee Su Ho es el único que ha visto su rostro desnudo, quien no solo es uno de los mejores estudiantes, sino que también llama la atención de todas las chicas que lo rodean. A pesar de su popularidad, Lee Su Ho tiene un lado tímido, se pone rojo brillante cuando se avergüenza y dice cosas que lamenta. Por otro lado están Han Seo Jun, un chico alto y atractivo como un modelo, rudo a primera vista pero también con un par de secretos; y Kang Su Jin, una diosa en toda regla, al menos básicamente hablando.",
+    "episodiosPosters": [],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/1",
+        "iframeSrc": "https://s.uuidksinc.net/match/1411/?remote_uid=6969471389586536680"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/2",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/3",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/4",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/5",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/6",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/7",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/8",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/9",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/10",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/11",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/12",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 13,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/13",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 14,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/14",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 15,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/15",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 16,
+        "urlPagina": "https://www.pandrama.tv/titulo/355/belleza-verdadera/temporada/1/episodio/16",
+        "iframeSrc": "javascript:false"
+      }
+    ]
+  },
+  {
+    "titulo": "Big Mouse",
+    "tituloCoreano": "빅마우스",
+    "poster": "https://image.tmdb.org/t/p/w500/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.3 / 10",
+    "sinopsis": "Un abogado con un 10 % de tasa de victorias acaba envuelto en un caso de asesinato y se convierte, de la noche a la mañana, en el famoso y brillante estafador Big Mouse. Para poder sobrevivir y proteger a su familia, intenta demostrar cómo son realmente las personas privilegiadas que están implicadas en una enorme conspiración.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/5niBVqToGQfJnyrocEFCVnzZNXh.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/rQbLNhtFdbckse3hRIrF3lEk7WD.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/ltDgoW9awWqsZEiW3Q83Y4cgJvo.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/8UUpJiWqbtVlqdcFJT8hQpqN0gn.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/sODSsR0SONrU5UvL9soG3Ndlbxh.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/9PYW4leA5yj4i2KGT0b1PxT4jka.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/b0yF4kbZKP1IrNcVohkSMlLlxEA.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/vy9dOWgLEOE4bGf4OFUh9LlYe0e.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/kOsFVAob22hhHCKMLn5Qs7HjjjW.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/q6abaakdqOPcccYu5zkinwLxeGc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/fnPd8Ksx4nv4qM8DCcgLBME9cCb.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/vxYffZzZ3KsVkL8QIE9W4wwQS09.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 13",
+        "src": "https://image.tmdb.org/t/p/w300/bjnM7gGVZpyyuopz106U7tvkGjy.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 14",
+        "src": "https://image.tmdb.org/t/p/w300/mYehDX9rcRbWP0VlIpx2Pk7LCBs.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 15",
+        "src": "https://image.tmdb.org/t/p/w300/9Z4JoWTBfSy2pO8whozCsBOwZlX.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 16",
+        "src": "https://image.tmdb.org/t/p/w300/fAlPVaCmrC22KRUObtXgtTpaV71.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/1",
+        "iframeSrc": "https://e.img-webp.com/video/8d8f733a7c2a2ea60df6439a28a2b9a3?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/2",
+        "iframeSrc": "https://e.img-webp.com/video/7d62a275027741d98073d42b8f735c68?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/3",
+        "iframeSrc": "https://e.img-webp.com/video/11d867796d85db8cad5280ac44cec7c1?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/4",
+        "iframeSrc": "https://e.img-webp.com/video/a57d48399922b03419153a9760c5ce53?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/5",
+        "iframeSrc": "https://e.img-webp.com/video/beda24c1e1b46055dff2c39c98fd6fc1?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/6",
+        "iframeSrc": "https://e.img-webp.com/video/30cde89544caa549a813d660c4b27967?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/7",
+        "iframeSrc": "https://e.img-webp.com/video/53b354612d26628e73986a80e254864e?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/8",
+        "iframeSrc": "https://e.img-webp.com/video/7cb36e23529e4de4c41460940cc85e6e?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/9",
+        "iframeSrc": "https://e.img-webp.com/video/5cc4bb753030a3d804351b2dfec0d8b5?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/10",
+        "iframeSrc": "https://e.img-webp.com/video/14eac0d254a6ccaf9b67584c7830a5c0?autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/11",
+        "iframeSrc": "https://e.img-webp.com/video/c54bc2ded4480856dc9f39bdcf35a3e7?autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/12",
+        "iframeSrc": "https://e.img-webp.com/video/b294504229c668e750dfcc4ea9617f0a?autoplay=1"
+      },
+      {
+        "numero": 13,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/13",
+        "iframeSrc": "https://e.img-webp.com/video/3d0236a18121ec86eff612e3b26bf7b9?autoplay=1"
+      },
+      {
+        "numero": 14,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/14",
+        "iframeSrc": "https://e.img-webp.com/video/4b2ae7d938d2edc52ee760535f0003e2?autoplay=1"
+      },
+      {
+        "numero": 15,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/15",
+        "iframeSrc": "https://e.img-webp.com/video/64697505ab8add3aa07f761321d06014?autoplay=1"
+      },
+      {
+        "numero": 16,
+        "urlPagina": "https://www.pandrama.tv/titulo/657/big-mouse/temporada/1/episodio/16",
+        "iframeSrc": "https://e.img-webp.com/video/16105fb9cc614fc29e1bda00dab60d41?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Cásate con mi Esposo",
+    "tituloCoreano": "내 남편과 결혼해줘",
+    "poster": "https://image.tmdb.org/t/p/w500/899KcBqooj8nEyPcAEU3h7AdfUo.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.6 / 10",
+    "sinopsis": "Ji-won, una mujer de vida limitada, regresa a 10 años atrás y sueña con vengarse tras ser asesinada por su marido, que tuvo una aventura con su mejor amiga.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/nVRML7uH6G8lFGfSGle83tj7h58.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/sdE9Hy22F65glApLVzjhLW6L20q.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/iMP9iL1swusvq37KX7KknHHLnqE.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/kwjhSxIONMkurKVcrE7BrdVvngH.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/i60dhE7IyM9WWMmKg5feySm44Tv.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/h1ILrGUH1xXRJJ5vzdLhXSiR0iq.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/eCKYXbGvmlcPeuLs3axhQr6vphz.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/bMK9OG2uTMKFEuGKjh8CKDcH5W6.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/tORlOQ8lDpAfCe5zuNnzzO3fGNL.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/7Idt6zXquBBBI7IwpGI3y6jgqQn.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/asnxhHjXNveBi99gBLzNeFuPsMQ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/mt2jVse54EjBGk3mKRVwOewjlQh.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 13",
+        "src": "https://image.tmdb.org/t/p/w300/qBmTJSuPTLmeOy0eLgR5QW9lzD.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 14",
+        "src": "https://image.tmdb.org/t/p/w300/lQrtAhqvleWA5CNv0YR1e0tU96T.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 15",
+        "src": "https://image.tmdb.org/t/p/w300/kHSv09qrPLccwexoX0xGmtOx2Qt.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 16",
+        "src": "https://image.tmdb.org/t/p/w300/mAqCmdKDFNcujU79g9465VKBiL8.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/1",
+        "iframeSrc": "https://e.img-webp.com/video/0ffb8460d08197d28aaf795711fc8f65?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/2",
+        "iframeSrc": "https://e.img-webp.com/video/a3a51080d3fcd1adab3a44996fd6b977?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/3",
+        "iframeSrc": "https://e.img-webp.com/video/01a2f2129e2c141325090c48fa415000?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/4",
+        "iframeSrc": "https://e.img-webp.com/video/48d6f19c288499f43a49247e4754c88a?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/5",
+        "iframeSrc": "https://e.img-webp.com/video/905669063311d8a17bd6958cd353eedd?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/6",
+        "iframeSrc": "https://e.img-webp.com/video/40641914166f1cba1d06c020e462ff8e?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/7",
+        "iframeSrc": "https://e.img-webp.com/video/1634908a456f1807f5c7375e92dddeb2?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/8",
+        "iframeSrc": "https://e.img-webp.com/video/a7b0d547ea892113ec47dc262675fc7b?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/9",
+        "iframeSrc": "https://e.img-webp.com/video/2609acbab44e192aa3764849a69b7dd8?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/10",
+        "iframeSrc": "https://e.img-webp.com/video/8dbdbf0cedc89e9a82967a7d983c11ca?autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/11",
+        "iframeSrc": "https://e.img-webp.com/video/7f6b550688de8db0290009ba6abd673c?autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/12",
+        "iframeSrc": "https://e.img-webp.com/video/a54505e6a589aa3b38674ef107da13c1?autoplay=1"
+      },
+      {
+        "numero": 13,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/13",
+        "iframeSrc": "https://e.img-webp.com/video/c7b711619071c92bef604c7ad68380dd?autoplay=1"
+      },
+      {
+        "numero": 14,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/14",
+        "iframeSrc": "https://e.img-webp.com/video/a522fbd52ff0d8e2c9faf085e7ec0966?autoplay=1"
+      },
+      {
+        "numero": 15,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/15",
+        "iframeSrc": "https://e.img-webp.com/video/0c383e8deecbd58d5cbdfd324132b91f?autoplay=1"
+      },
+      {
+        "numero": 16,
+        "urlPagina": "https://www.pandrama.tv/titulo/1725/casate-con-mi-esposo/temporada/1/episodio/16",
+        "iframeSrc": "https://e.img-webp.com/video/b56baf5ddf91123f42fa39ebb461e126?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Dream to You",
+    "tituloCoreano": "그대에게 드림",
+    "poster": "https://image.tmdb.org/t/p/w500/yyg3ppRqUDUM0yn7NtrF1fhBJo3.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.5 / 10",
+    "sinopsis": "Un aspirante a director de cine se reencuentra con su primer amor, una exreportera, para completar la película que dejaron inconclusa. Mientras trabajan juntos para hacer realidad ese antiguo proyecto, ambos tendrán la oportunidad de revivir los sentimientos que alguna vez compartieron.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/f4VCBWxQd2EkeYqzLYFu2zbs2mZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/f4VCBWxQd2EkeYqzLYFu2zbs2mZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/f4VCBWxQd2EkeYqzLYFu2zbs2mZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/f4VCBWxQd2EkeYqzLYFu2zbs2mZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/f4VCBWxQd2EkeYqzLYFu2zbs2mZ.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/1",
+        "iframeSrc": "https://bysekoze.com/e/ovempe6o582g?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/2",
+        "iframeSrc": "https://bysekoze.com/e/jzm9kywxqihk?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/3",
+        "iframeSrc": "https://ok.ru/videoembed/15222900394551?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/4",
+        "iframeSrc": "https://bysekoze.com/e/hny2qg800ng3?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/5",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/6",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/7",
+        "iframeSrc": "https://bysekoze.com/e/n1sd9sazjohi?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/8",
+        "iframeSrc": "https://lulustream.com/e/nt94yaq9loj2?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/9",
+        "iframeSrc": "https://bysekoze.com/e/ix7kone7zsdn?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/10",
+        "iframeSrc": "https://bysekoze.com/e/05tzte7sdrd5?autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/11",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241445&autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/4201/dream-to-you/temporada/1/episodio/12",
+        "iframeSrc": "https://bysekoze.com/e/geghcwjus4g2?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "La corona perfecta",
+    "tituloCoreano": "21세기 대군부인",
+    "poster": "https://image.tmdb.org/t/p/w500/6CDHhHZ8lYkpSE3UkFKrqYeeSzz.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.9 / 10",
+    "sinopsis": "En una Corea moderna con una monarquía constitucional, una heredera de Chaebol y un príncipe impotente contraen un matrimonio por contrato, descubriendo el amor y el coraje mientras enfrentan barreras sociales y cicatrices personales.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/b8bWv6a8QCSLBSsafOtT8OJc9ci.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/jKU4NOZX2Trogzg9gni7ygzwj04.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/yELtOnfe1vuiVzPrJGG84KaWTKc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/tOEniXFTHzfKHt10AeO3AGI2Uy2.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/eAJNC2UmQOXlS3u0KIQDplNhqD0.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/N7gTw1Rsz6PNMQc7FVIykJkbYq.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/oEai4BtQPsBbxOJqQYe7wCaMtZx.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/t9uctG2yxaIFb95oZx7aUvYkiNp.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/pPC3EeQRvmrc3QyuU4HPzVaXx2R.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/rPpwwriBd2IhhugTvlVKaYih4Dy.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/icPWuj0bd0sRbkE9baJWiCu8UT4.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/osYja5t4SgBaFSIFStXhZ6uXB1h.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/1",
+        "iframeSrc": "https://bysekoze.com/e/31p8ps79syav?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/2",
+        "iframeSrc": "https://bysekoze.com/e/hkf6m16guyk1?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/3",
+        "iframeSrc": "https://bysekoze.com/e/ngn71nagrcbq?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/4",
+        "iframeSrc": "https://bysekoze.com/e/z2wcqxpl8co1?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/5",
+        "iframeSrc": "https://ok.ru/videoembed/14160140110457?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/6",
+        "iframeSrc": "https://vkvideo.ru/video_ext.php?oid=-236564849&id=456239198&autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/7",
+        "iframeSrc": "https://bysekoze.com/e/kn6tbxsm78c5?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/8",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456239083&autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/9",
+        "iframeSrc": "https://bysekoze.com/e/9b0hs4yn5rgd?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/10",
+        "iframeSrc": "https://bysekoze.com/e/cgbw60uq72s0?autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/11",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456239279&autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/3010/la-corona-perfecta/temporada/1/episodio/12",
+        "iframeSrc": "https://bysekoze.com/e/i4i10tifsal7/pandrama-tvperfect-crown-s01e12?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Lovely Runner: Salvando a mi Ídolo",
+    "tituloCoreano": "선재 업고 튀어",
+    "poster": "https://image.tmdb.org/t/p/w500/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.6 / 10",
+    "sinopsis": "Ryu Sun Jae es una estrella importante que ha estado en el centro de atención desde su debut. Su vida parece perfecta, pero estar en la industria del entretenimiento lo ha agotado por completo. Mientras tanto, Im Sol ama a Ryu Sun Jae como una admiradora que lo adora. Cuando era pequeña tuvo un accidente y debido a eso, abandonó su sueño, pero escuchar la canción de Ryu Sun Jae en la radio la consoló y se convirtió en su fan desde entonces. Un día, Im Sol escucha la última noticia de que Ryu Sun Jae ha acabado con su propia vida y siente una profunda tristeza por la trágica noticia. Milagrosamente, Im Sol de alguna manera viaja en el tiempo hasta 15 años atrás. Allí, se enfrenta a Ryu Sun Jae, un estudiante de secundaria de 19 años. Ella lucha por evitar su trágico futuro.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/xu8nw4MOKlhmD8BOMgHBWfWxaF4.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/3H0Zn7X3RUVfeT6NYWOtlnickK9.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/uzFb9aYuRFkMz9mrc8JsfmTsxg3.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/gFqVqHMVuHWReZXlVpinI6MtKFl.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/ebQw25xMHbYo3XLsibS8W09kvSh.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/yES8f7ShCZlgRNrHAax2GHu1mza.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/wjqkASql1k9I3AJEi9I9kPp9dpv.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/ojSQYAMfgWTR2rsH51sAMK9D1Pp.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/fMrTM12zvbNqT3YHxVAPG6U7Kn0.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/qfCACqxoFmwpxCLCJPNXqFJv91T.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/7B9eBu8T264pDLyoDUmQcOrT7DK.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/9s79GatdG0NUF6UUHcm6epPM0dJ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 13",
+        "src": "https://image.tmdb.org/t/p/w300/o5Lr3clq5BC0hNIqpCjW8mSulhD.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 14",
+        "src": "https://image.tmdb.org/t/p/w300/wDz25H1ArsFNOQ5A5FliZjKxdcO.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 15",
+        "src": "https://image.tmdb.org/t/p/w300/5FClZ2XmXJLgy8ytMiHSVmTQdAG.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 16",
+        "src": "https://image.tmdb.org/t/p/w300/hcFyYk5LGmkqTSbxRnQqej3mszO.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/1",
+        "iframeSrc": "https://s.uuidksinc.net/match/1411/?remote_uid=6969471389586536680"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/2",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/3",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/4",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/5",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/6",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/7",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/8",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/9",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/10",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/11",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/12",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 13,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/13",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 14,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/14",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 15,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/15",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 16,
+        "urlPagina": "https://www.pandrama.tv/titulo/1819/lovely-runner-salvando-a-mi-idolo/temporada/1/episodio/16",
+        "iframeSrc": "javascript:false"
+      }
+    ]
+  },
+  {
+    "titulo": "Mi ídolo, mi jefe",
+    "tituloCoreano": "최애의 사원",
+    "poster": "https://image.tmdb.org/t/p/w500/A4Y4xlDHS4xi2WI9265vRyIYLoo.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.4 / 10",
+    "sinopsis": "Una fan incondicional se une inesperadamente a la startup de quien fue su amor platónico cuando era idol, y termina involucrándose en un dulce y torpe romance con el frío y reservado CEO de la empresa.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/95vl9LXTyZhqutk07Paveiew2m6.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/eBD46F44qKGPZiRLffO4q3JF8Hc.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/1",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241004&autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/2",
+        "iframeSrc": "https://bysekoze.com/e/0pbj7qa8dooh?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/3",
+        "iframeSrc": "https://bysekoze.com/e/ha0gu90gfmn8?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/4",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241180&autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/5",
+        "iframeSrc": "https://lulustream.com/e/ebojrnq8evs1?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/6",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241460&autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/7",
+        "iframeSrc": "https://bysekoze.com/e/fr37li5rdj81?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/8",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241705&autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/9",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241854&autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/10",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241858&autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/11",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241939&autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/4353/mi-idolo,-mi-jefe/temporada/1/episodio/12",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241946&autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Mi Querido Némesis",
+    "tituloCoreano": "그놈은 흑염룡",
+    "poster": "https://image.tmdb.org/t/p/w500/obxTkvATqU8a65XDOFOQeZKd3PF.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "8.8 / 10",
+    "sinopsis": "Me encanto muy divertido e intrigante me hubiera gustado ver una boda",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/6o9Biy8CLl5UHf6gD0ywT0p15Cc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/vblaV1p4AGwkJS0HgRcLS1uJUpr.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/x7i9VQIokUJ9W23Rj1hGrHYSEvO.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/a5Xbp2Loq1dIRaOmATfFMgGDd23.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/fXJ7dLPyxog6ltqFZK7uj9lkqQ9.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/12KRRqBy8qmpH4ECNLAO5RTRxNJ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/zmCVIXhBK3Im9OJTJRFLdAWiOsl.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/jhg8OuvMPFvON1j8MrHZz7eAYrh.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/zexbNp8s5duzzAeyjghdSRPv8Pd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/lkAiv8O6VigHqMiB2fM3OVwD0Dm.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/2Ou2rAHl95Oxo6lfVhDVYRCnkK2.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/r6XLidBRucNGQ28r34703vC1nZX.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/1",
+        "iframeSrc": "https://s.uuidksinc.net/match/1411/?remote_uid=6969471389586536680"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/2",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/3",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/4",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/5",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/6",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/7",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/8",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/9",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/10",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/11",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/2147/mi-querido-nemesis/temporada/1/episodio/12",
+        "iframeSrc": "javascript:false"
+      }
+    ]
+  },
+  {
+    "titulo": "Muertos de amor",
+    "tituloCoreano": "오싹한 연애",
+    "poster": "https://image.tmdb.org/t/p/w500/yBNT4FtxHyUjrnQmmZ3kkXMov4u.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.4 / 10",
+    "sinopsis": "Una heredera hotelera que ve fantasmas y un fiscal brillante unen fuerzas en una intensa investigación donde el romance surge entre misterios y peligros.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/1",
+        "iframeSrc": "https://ok.ru/videoembed/15194478152247?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/2",
+        "iframeSrc": "https://ok.ru/videoembed/15207296010807?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/3",
+        "iframeSrc": "https://ok.ru/videoembed/15292721072695?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/4",
+        "iframeSrc": "https://bysekoze.com/e/5c4j7o0tje9e?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/5",
+        "iframeSrc": "https://bysekoze.com/e/qoxzz9b83c9s?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/6",
+        "iframeSrc": "https://bysekoze.com/e/ho4wrtze5fzl?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/7",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241186&autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/8",
+        "iframeSrc": "https://ok.ru/videoembed/15463402768951?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/9",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241378&autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/10",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456241438&autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/11",
+        "iframeSrc": "https://bysekoze.com/e/a3w9uzllkfnk?autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/4349/muertos-de-amor/temporada/1/episodio/12",
+        "iframeSrc": "https://ok.ru/videoembed/15621537860151?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "¡Nos vemos en la oficina!",
+    "tituloCoreano": "내일도 출근!",
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.6 / 10",
+    "sinopsis": "Una agotada oficinista atrapada en una crisis laboral termina involucrándose con su frío y perfeccionista jefe, y entre constantes choques, ambos comienzan a convertirse inesperadamente en la persona más importante del otro.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1: ¡Incluso si el cielo se cae, todavía estamos registrando!",
+        "src": "https://image.tmdb.org/t/p/w300/ziRiSD2WGZVXg8aK3BjEIb0UBCb.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2: ¡Soñando con dejar de fumar, todavía estoy fichando!",
+        "src": "https://image.tmdb.org/t/p/w300/oTIxYbKrVbIxv6rwj3hm8wtkSTp.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3: ¡Enfermo o no, todavía estoy registrando!",
+        "src": "https://image.tmdb.org/t/p/w300/6AgtO8NeZyJKBmW2vk8FALAZS6U.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4: ¡Rompieron ayer, todavía registrando!",
+        "src": "https://image.tmdb.org/t/p/w300/eWGgjlD25GXpzw4wEPkqNh4BXIW.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5: ¡Tenga una \"reunión\" y todavía regístrese!",
+        "src": "https://image.tmdb.org/t/p/w300/1cr5uYsHn0ONCUgOiIDRrV5RryZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6: Arrestado por mis sentimientos, ¡todavía estoy registrando!",
+        "src": "https://image.tmdb.org/t/p/w300/1H5N2kfaxiRSrtJORcZt5cBzl7m.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7: ¡Tenga un nuevo secreto, todavía registrándose!",
+        "src": "https://image.tmdb.org/t/p/w300/sdiZuZqKlkM2wnvciUVa0UYEvyM.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8: ¡Retenido por mi pasado, todavía marcando el ritmo!",
+        "src": "https://image.tmdb.org/t/p/w300/dVBhvLbCpxRWw4OjGJhQuQkHM8V.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/zftF4KDGuhAGIA50bywcCXPjz5f.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/zftF4KDGuhAGIA50bywcCXPjz5f.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/zftF4KDGuhAGIA50bywcCXPjz5f.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/zftF4KDGuhAGIA50bywcCXPjz5f.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/1",
+        "iframeSrc": "https://lulustream.com/e/3v6m3vsp65hw?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/2",
+        "iframeSrc": "https://lulustream.com/e/yxclx50e6qy8?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/3",
+        "iframeSrc": "https://bysekoze.com/e/2f85ziiyqslq?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/4",
+        "iframeSrc": "https://ok.ru/videoembed/14960441494071?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/5",
+        "iframeSrc": "https://ok.ru/videoembed/15046313642551?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/6",
+        "iframeSrc": "https://bysekoze.com/e/q0np5z4r6ro8?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/7",
+        "iframeSrc": "https://bysekoze.com/e/85erlm06g631?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/8",
+        "iframeSrc": "https://ok.ru/videoembed/15148004215351?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/9",
+        "iframeSrc": "https://ok.ru/videoembed/15220745177655?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/10",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456240772&autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/11",
+        "iframeSrc": "https://bysekoze.com/e/km1gfycemwse?autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/4194/%C2%A1nos-vemos-en-la-oficina/temporada/1/episodio/12",
+        "iframeSrc": "https://bysekoze.com/e/t7s98av3zge4?autoplay=1"
+      }
+    ]
+  },
+  {
+    "name": "dorama",
+    "version": "1.0.0",
+    "lockfileVersion": 3,
+    "requires": true,
+    "packages": {
+      "": {
+        "name": "dorama",
+        "version": "1.0.0",
+        "license": "ISC",
+        "dependencies": {
+          "puppeteer": "^25.11.0"
+        }
+      },
+      "node_modules/@puppeteer/browsers": {
+        "version": "3.2.2",
+        "resolved": "https://registry.npmjs.org/@puppeteer/browsers/-/browsers-3.2.2.tgz",
+        "integrity": "sha512-q2BU4YfO9h/Wt7IcWPcggpOOqLk2Tbs1hDwolvKZrweRjy751OJBKMN9zO5bfD0pzU7X/tvKw/exQds4pM/LOg==",
+        "license": "Apache-2.0",
+        "dependencies": {
+          "modern-tar": "^0.8.4",
+          "yargs": "^18.0.0"
+        },
+        "bin": {
+          "browsers": "lib/main-cli.js"
+        },
+        "engines": {
+          "node": ">=22.12.0"
+        },
+        "peerDependencies": {
+          "proxy-agent": ">=8.0.1",
+          "yauzl": "^2.10.0 || ^3.4.0"
+        },
+        "peerDependenciesMeta": {
+          "proxy-agent": {
+            "optional": true
+          },
+          "yauzl": {
+            "optional": true
+          }
+        }
+      },
+      "node_modules/ansi-regex": {
+        "version": "6.3.0",
+        "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-6.3.0.tgz",
+        "integrity": "sha512-WpDfL7NO6j7tH88IDBNVdUJxDh9nmCteAVW9dsep846XdwF4naCBK+/tGLX3KJgcpgMRXCFlTM2hKGoK9FsdrQ==",
+        "license": "MIT",
+        "engines": {
+          "node": ">=12"
+        },
+        "funding": {
+          "url": "https://github.com/chalk/ansi-regex?sponsor=1"
+        }
+      },
+      "node_modules/ansi-styles": {
+        "version": "6.2.3",
+        "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-6.2.3.tgz",
+        "integrity": "sha512-4Dj6M28JB+oAH8kFkTLUo+a2jwOFkuqb3yucU0CANcRRUbxS0cP0nZYCGjcc3BNXwRIsUVmDGgzawme7zvJHvg==",
+        "license": "MIT",
+        "engines": {
+          "node": ">=12"
+        },
+        "funding": {
+          "url": "https://github.com/chalk/ansi-styles?sponsor=1"
+        }
+      },
+      "node_modules/chromium-bidi": {
+        "version": "17.0.2",
+        "resolved": "https://registry.npmjs.org/chromium-bidi/-/chromium-bidi-17.0.2.tgz",
+        "integrity": "sha512-5v9GQFhTktFvotn/OFNJBmKLKRAb6n9r0bVCwf7sHgWc3/JryK0bj1nn93L3pHFrfgcsu6Be6EWsDi+1XHTGDg==",
+        "license": "Apache-2.0",
+        "dependencies": {
+          "mitt": "^3.0.1",
+          "zod": "^3.24.1"
+        },
+        "engines": {
+          "node": ">=20.19.0 <22.0.0 || >=22.12.0"
+        },
+        "peerDependencies": {
+          "devtools-protocol": "*"
+        }
+      },
+      "node_modules/cliui": {
+        "version": "9.0.1",
+        "resolved": "https://registry.npmjs.org/cliui/-/cliui-9.0.1.tgz",
+        "integrity": "sha512-k7ndgKhwoQveBL+/1tqGJYNz097I7WOvwbmmU2AR5+magtbjPWQTS1C5vzGkBC8Ym8UWRzfKUzUUqFLypY4Q+w==",
+        "license": "ISC",
+        "dependencies": {
+          "string-width": "^7.2.0",
+          "strip-ansi": "^7.1.0",
+          "wrap-ansi": "^9.0.0"
+        },
+        "engines": {
+          "node": ">=20"
+        }
+      },
+      "node_modules/cliui/node_modules/string-width": {
+        "version": "7.2.0",
+        "resolved": "https://registry.npmjs.org/string-width/-/string-width-7.2.0.tgz",
+        "integrity": "sha512-tsaTIkKW9b4N+AEj+SVA+WhJzV7/zMhcSu78mLKWSk7cXMOSHsBKFWUs0fWwq8QyK3MgJBQRX6Gbi4kYbdvGkQ==",
+        "license": "MIT",
+        "dependencies": {
+          "emoji-regex": "^10.3.0",
+          "get-east-asian-width": "^1.0.0",
+          "strip-ansi": "^7.1.0"
+        },
+        "engines": {
+          "node": ">=18"
+        },
+        "funding": {
+          "url": "https://github.com/sponsors/sindresorhus"
+        }
+      },
+      "node_modules/devtools-protocol": {
+        "version": "0.0.1680125",
+        "resolved": "https://registry.npmjs.org/devtools-protocol/-/devtools-protocol-0.0.1680125.tgz",
+        "integrity": "sha512-rVARKAvOFJCFkvgX01VLvYqKIvt+cRCqvUxIhB2oAqVGPalxk3w3sb5TUGDagpow/EFblBpm/Zl/29QA2dd+jA==",
+        "license": "BSD-3-Clause"
+      },
+      "node_modules/emoji-regex": {
+        "version": "10.6.0",
+        "resolved": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-10.6.0.tgz",
+        "integrity": "sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==",
+        "license": "MIT"
+      },
+      "node_modules/escalade": {
+        "version": "3.2.0",
+        "resolved": "https://registry.npmjs.org/escalade/-/escalade-3.2.0.tgz",
+        "integrity": "sha512-WUj2qlxaQtO4g6Pq5c29GTcWGDyd8itL8zTlipgECz3JesAiiOKotd8JU6otB3PACgG6xkJUyVhboMS+bje/jA==",
+        "license": "MIT",
+        "engines": {
+          "node": ">=6"
+        }
+      },
+      "node_modules/get-caller-file": {
+        "version": "2.0.5",
+        "resolved": "https://registry.npmjs.org/get-caller-file/-/get-caller-file-2.0.5.tgz",
+        "integrity": "sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==",
+        "license": "ISC",
+        "engines": {
+          "node": "6.* || 8.* || >= 10.*"
+        }
+      },
+      "node_modules/get-east-asian-width": {
+        "version": "1.6.0",
+        "resolved": "https://registry.npmjs.org/get-east-asian-width/-/get-east-asian-width-1.6.0.tgz",
+        "integrity": "sha512-QRbvDIbx6YklUe6RxeTeleMR0yv3cYH6PsPZHcnVn7xv7zO1BHN8r0XETu8n6Ye3Q+ahtSarc3WgtNWmehIBfA==",
+        "license": "MIT",
+        "engines": {
+          "node": ">=18"
+        },
+        "funding": {
+          "url": "https://github.com/sponsors/sindresorhus"
+        }
+      },
+      "node_modules/lilconfig": {
+        "version": "3.1.3",
+        "resolved": "https://registry.npmjs.org/lilconfig/-/lilconfig-3.1.3.tgz",
+        "integrity": "sha512-/vlFKAoH5Cgt3Ie+JLhRbwOsCQePABiU3tJ1egGvyQ+33R/vcwM2Zl2QR/LzjsBeItPt3oSVXapn+m4nQDvpzw==",
+        "license": "MIT",
+        "engines": {
+          "node": ">=14"
+        },
+        "funding": {
+          "url": "https://github.com/sponsors/antonk52"
+        }
+      },
+      "node_modules/mitt": {
+        "version": "3.0.1",
+        "resolved": "https://registry.npmjs.org/mitt/-/mitt-3.0.1.tgz",
+        "integrity": "sha512-vKivATfr97l2/QBCYAkXYDbrIWPM2IIKEl7YPhjCvKlG3kE2gm+uBo6nEXK3M5/Ffh/FLpKExzOQ3JJoJGFKBw==",
+        "license": "MIT"
+      },
+      "node_modules/modern-tar": {
+        "version": "0.8.5",
+        "resolved": "https://registry.npmjs.org/modern-tar/-/modern-tar-0.8.5.tgz",
+        "integrity": "sha512-snEhs+6G5Tjd4I7tLCDOaoln2RgE0bD19RzEKgvgK2hZ5VKy3MpLhLTZ2fWpXSTg4K2cyPwp+VHATFJhxfnOeA==",
+        "license": "MIT",
+        "engines": {
+          "node": ">=18.0.0"
+        }
+      },
+      "node_modules/puppeteer": {
+        "version": "25.11.0",
+        "resolved": "https://registry.npmjs.org/puppeteer/-/puppeteer-25.11.0.tgz",
+        "integrity": "sha512-n+psxZFH/qlJ3gwTZMxTLUZoE98FAOEjT/BSxHXvPmNCGAfN/kq0UnIZ8m9RB4rAVvJr7zRHUnKKg98GLMUyyQ==",
+        "hasInstallScript": true,
+        "license": "Apache-2.0",
+        "dependencies": {
+          "@puppeteer/browsers": "3.2.2",
+          "chromium-bidi": "17.0.2",
+          "devtools-protocol": "0.0.1680125",
+          "lilconfig": "^3.1.3",
+          "puppeteer-core": "25.11.0",
+          "typed-query-selector": "^2.12.2"
+        },
+        "bin": {
+          "puppeteer": "lib/puppeteer/node/cli.js"
+        },
+        "engines": {
+          "node": ">=22.12.0"
+        }
+      },
+      "node_modules/puppeteer-core": {
+        "version": "25.11.0",
+        "resolved": "https://registry.npmjs.org/puppeteer-core/-/puppeteer-core-25.11.0.tgz",
+        "integrity": "sha512-Ujym7JbxoAqanaxGcHgmTomfhC01HfDCSuGZ8Hs9boHrDjzbNVMnFRJo2KtbDT9LCRgeJoFnkn9JQZ41eEUrLw==",
+        "license": "Apache-2.0",
+        "dependencies": {
+          "@puppeteer/browsers": "3.2.2",
+          "chromium-bidi": "17.0.2",
+          "devtools-protocol": "0.0.1680125",
+          "typed-query-selector": "^2.12.2",
+          "webdriver-bidi-protocol": "0.4.3",
+          "ws": "^8.21.3"
+        },
+        "engines": {
+          "node": ">=22.12.0"
+        }
+      },
+      "node_modules/string-width": {
+        "version": "8.2.2",
+        "resolved": "https://registry.npmjs.org/string-width/-/string-width-8.2.2.tgz",
+        "integrity": "sha512-GaPUh5gfdrYzqeVNZvUfT23vYYxXzKYidUcnMtJg/3rxRV63EFZy3k6xfKlmfeJD0176lnUV/Usr3XcwSvFzpg==",
+        "license": "MIT",
+        "dependencies": {
+          "get-east-asian-width": "^1.5.0",
+          "strip-ansi": "^7.1.2"
+        },
+        "engines": {
+          "node": ">=20"
+        },
+        "funding": {
+          "url": "https://github.com/sponsors/sindresorhus"
+        }
+      },
+      "node_modules/strip-ansi": {
+        "version": "7.2.0",
+        "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-7.2.0.tgz",
+        "integrity": "sha512-yDPMNjp4WyfYBkHnjIRLfca1i6KMyGCtsVgoKe/z1+6vukgaENdgGBZt+ZmKPc4gavvEZ5OgHfHdrazhgNyG7w==",
+        "license": "MIT",
+        "dependencies": {
+          "ansi-regex": "^6.2.2"
+        },
+        "engines": {
+          "node": ">=12"
+        },
+        "funding": {
+          "url": "https://github.com/chalk/strip-ansi?sponsor=1"
+        }
+      },
+      "node_modules/typed-query-selector": {
+        "version": "2.12.2",
+        "resolved": "https://registry.npmjs.org/typed-query-selector/-/typed-query-selector-2.12.2.tgz",
+        "integrity": "sha512-EOPFbyIub4ngnEdqi2yOcNeDLaX/0jcE1JoAXQDDMIthap7FoN795lc/SHfIq2d416VufXpM8z/lD+WRm2gfOQ==",
+        "license": "MIT"
+      },
+      "node_modules/webdriver-bidi-protocol": {
+        "version": "0.4.3",
+        "resolved": "https://registry.npmjs.org/webdriver-bidi-protocol/-/webdriver-bidi-protocol-0.4.3.tgz",
+        "integrity": "sha512-uuN0goWfxP22B7J/uAgBpOYNPttC+XVseYE+rSY5+rQ+YBeVz/VORw8WbmLVcqW78zNg5A4qnjNXYUWR3il2ig==",
+        "license": "Apache-2.0"
+      },
+      "node_modules/wrap-ansi": {
+        "version": "9.0.2",
+        "resolved": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-9.0.2.tgz",
+        "integrity": "sha512-42AtmgqjV+X1VpdOfyTGOYRi0/zsoLqtXQckTmqTeybT+BDIbM/Guxo7x3pE2vtpr1ok6xRqM9OpBe+Jyoqyww==",
+        "license": "MIT",
+        "dependencies": {
+          "ansi-styles": "^6.2.1",
+          "string-width": "^7.0.0",
+          "strip-ansi": "^7.1.0"
+        },
+        "engines": {
+          "node": ">=18"
+        },
+        "funding": {
+          "url": "https://github.com/chalk/wrap-ansi?sponsor=1"
+        }
+      },
+      "node_modules/wrap-ansi/node_modules/string-width": {
+        "version": "7.2.0",
+        "resolved": "https://registry.npmjs.org/string-width/-/string-width-7.2.0.tgz",
+        "integrity": "sha512-tsaTIkKW9b4N+AEj+SVA+WhJzV7/zMhcSu78mLKWSk7cXMOSHsBKFWUs0fWwq8QyK3MgJBQRX6Gbi4kYbdvGkQ==",
+        "license": "MIT",
+        "dependencies": {
+          "emoji-regex": "^10.3.0",
+          "get-east-asian-width": "^1.0.0",
+          "strip-ansi": "^7.1.0"
+        },
+        "engines": {
+          "node": ">=18"
+        },
+        "funding": {
+          "url": "https://github.com/sponsors/sindresorhus"
+        }
+      },
+      "node_modules/ws": {
+        "version": "8.21.3",
+        "resolved": "https://registry.npmjs.org/ws/-/ws-8.21.3.tgz",
+        "integrity": "sha512-201TZ/kPWxoPr/OKWjquZR1SWKXcvxdH+e1xrx89b3YbmzLMFCLfnaG1HFIgWzJOEWZ7MvpK++odZufgYR50Rw==",
+        "license": "MIT",
+        "engines": {
+          "node": ">=10.0.0"
+        },
+        "peerDependencies": {
+          "bufferutil": "^4.0.1",
+          "utf-8-validate": ">=5.0.2"
+        },
+        "peerDependenciesMeta": {
+          "bufferutil": {
+            "optional": true
+          },
+          "utf-8-validate": {
+            "optional": true
+          }
+        }
+      },
+      "node_modules/y18n": {
+        "version": "5.0.8",
+        "resolved": "https://registry.npmjs.org/y18n/-/y18n-5.0.8.tgz",
+        "integrity": "sha512-0pfFzegeDWJHJIAmTLRP2DwHjdF5s7jo9tuztdQxAhINCdvS+3nGINqPd00AphqJR/0LhANUS6/+7SCb98YOfA==",
+        "license": "ISC",
+        "engines": {
+          "node": ">=10"
+        }
+      },
+      "node_modules/yargs": {
+        "version": "18.1.0",
+        "resolved": "https://registry.npmjs.org/yargs/-/yargs-18.1.0.tgz",
+        "integrity": "sha512-2rAgRKu54VsHkqI0/tYkmluGXHD4KW7yZoycuqDQ15QOTnc2VVfy0nN/1eMhnQLO00A+dwtK20xuCnc1YGeUyg==",
+        "license": "MIT",
+        "dependencies": {
+          "cliui": "^9.0.1",
+          "escalade": "^3.1.1",
+          "get-caller-file": "^2.0.5",
+          "string-width": "^8.2.1",
+          "y18n": "^5.0.5",
+          "yargs-parser": "^22.0.0"
+        },
+        "engines": {
+          "node": "^20.19.0 || ^22.12.0 || >=23"
+        }
+      },
+      "node_modules/yargs-parser": {
+        "version": "22.0.0",
+        "resolved": "https://registry.npmjs.org/yargs-parser/-/yargs-parser-22.0.0.tgz",
+        "integrity": "sha512-rwu/ClNdSMpkSrUb+d6BRsSkLUq1fmfsY6TOpYzTwvwkg1/NRG85KBy3kq++A8LKQwX6lsu+aWad+2khvuXrqw==",
+        "license": "ISC",
+        "engines": {
+          "node": "^20.19.0 || ^22.12.0 || >=23"
+        }
+      },
+      "node_modules/zod": {
+        "version": "3.25.76",
+        "resolved": "https://registry.npmjs.org/zod/-/zod-3.25.76.tgz",
+        "integrity": "sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==",
+        "license": "MIT",
+        "funding": {
+          "url": "https://github.com/sponsors/colinhacks"
+        }
+      }
+    }
+  },
+  {
+    "titulo": "Payback",
+    "tituloCoreano": "เพย์แบค เดอะซีรีส์",
+    "poster": "https://image.tmdb.org/t/p/w500/616HQHGVqEh0ZbQIRdyjIBQfqhU.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.9 / 10",
+    "sinopsis": "Un afligido cobrador de deudas ingresa al mundo del entretenimiento en busca de venganza, solo para caer en una peligrosa atracción por un poderoso ejecutivo.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/hyGgZNieAvCQ6ITq1kBwiSMPmBZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/hyGgZNieAvCQ6ITq1kBwiSMPmBZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/hyGgZNieAvCQ6ITq1kBwiSMPmBZ.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/1",
+        "iframeSrc": "https://ok.ru/videoembed/14466115832375?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/2",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456239704&autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/3",
+        "iframeSrc": "https://bysekoze.com/e/slp7t5m7qbe0?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/4",
+        "iframeSrc": "https://bysekoze.com/e/dlnclidq2fgc?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/5",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456240135&autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/6",
+        "iframeSrc": "https://bysekoze.com/e/one1rrvu9173?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/7",
+        "iframeSrc": "https://bysekoze.com/e/ctuj7356kvrz?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/8",
+        "iframeSrc": "https://vk.com/video_ext.php?oid=484380196&id=456240716&autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/9",
+        "iframeSrc": "https://ok.ru/videoembed/16237405014594?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/4183/payback/temporada/1/episodio/10",
+        "iframeSrc": "https://bysekoze.com/e/debelbz6xszn?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "Propuesta laboral",
+    "tituloCoreano": "사내맞선",
+    "poster": "https://image.tmdb.org/t/p/w500/iLh7L8ZuvgdxFaM9sImyv2iKYLe.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.8 / 10",
+    "sinopsis": "Ha-ri se hace pasar por su amiga durante una cita a ciegas para ahuyentar al pretendiente. Pero el plan cambia cuando este resulta ser su CEO, que le hace una propuesta.",
+    "episodiosPosters": [],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/1",
+        "iframeSrc": "https://e.img-webp.com/video/ce8ae867a0accc0b7577fcc340bb99f4?autoplay=1"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/2",
+        "iframeSrc": "https://e.img-webp.com/video/2e7638c6f7667569fe469fec28c7405b?autoplay=1"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/3",
+        "iframeSrc": "https://e.img-webp.com/video/7dd11ae2d5ed34925bdbdc9b01866349?autoplay=1"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/4",
+        "iframeSrc": "https://e.img-webp.com/video/9f820adf84bf8a1c259f464ba89ea11f?autoplay=1"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/5",
+        "iframeSrc": "https://e.img-webp.com/video/57db7d68d5335b52d5153a4e01adaa6b?autoplay=1"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/6",
+        "iframeSrc": "https://e.img-webp.com/video/fdda6e957f1e5ee2f3b311fe4f145ae1?autoplay=1"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/7",
+        "iframeSrc": "https://e.img-webp.com/video/99e4ff886ade110350981edaec84553c?autoplay=1"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/8",
+        "iframeSrc": "https://e.img-webp.com/video/c5ad7d5c8e1cd311a06a038f2510bfdc?autoplay=1"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/9",
+        "iframeSrc": "https://e.img-webp.com/video/b8102d1fa5df93e62cf26cd4400a0727?autoplay=1"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/10",
+        "iframeSrc": "https://e.img-webp.com/video/fb3ea77a2b3f8e7cb0e4e6699568d43d?autoplay=1"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/11",
+        "iframeSrc": "https://e.img-webp.com/video/7bd66825e9a97424ffe5645549270832?autoplay=1"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/506/propuesta-laboral/temporada/1/episodio/12",
+        "iframeSrc": "https://e.img-webp.com/video/ac3e2c4e1d4bd07fb973a2ea4d250160?autoplay=1"
+      }
+    ]
+  },
+  {
+    "titulo": "¿Qué le ocurre a la secretaria Kim?",
+    "tituloCoreano": "김비서가 왜 그럴까",
+    "poster": "https://image.tmdb.org/t/p/w500/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "temporadas": "1 seasons",
+    "puntuacion": "9.4 / 10",
+    "sinopsis": "Lee Young-joon tiene la apariencia y habilidades perfectas, él es el vicepresidente de Unique Group, el siempre ha tenido a la secretaria Kim Mi-so, pero un día ella decide renunciar a su trabajo.",
+    "episodiosPosters": [
+      {
+        "episodio": "Poster for Episodio 1",
+        "src": "https://image.tmdb.org/t/p/w300/zFHplEPtshE3yLagZCzJMPhPJcL.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 2",
+        "src": "https://image.tmdb.org/t/p/w300/qx0gxPMVPwXlHdNe5ves4BaC5Vc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 3",
+        "src": "https://image.tmdb.org/t/p/w300/rNr8sCLyBgXNS2PbfxlbM8ZLwXc.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 4",
+        "src": "https://image.tmdb.org/t/p/w300/9cei7VJYlKrMSmxJGQaKfAA4RIu.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 5",
+        "src": "https://image.tmdb.org/t/p/w300/d7yhXPPyqyveyPMOYfcDFEizQLA.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 6",
+        "src": "https://image.tmdb.org/t/p/w300/onB89hF6BOlm4bVPhUCukSGOLHV.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 7",
+        "src": "https://image.tmdb.org/t/p/w300/cq6QGTL8PjjHAgRao0hZ8mW8YnC.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 8",
+        "src": "https://image.tmdb.org/t/p/w300/5BiR0tJkI1QA2m7YFJdIU9XdhHh.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 9",
+        "src": "https://image.tmdb.org/t/p/w300/4li912WPP1jZUkhBapyUkjgxXft.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 10",
+        "src": "https://image.tmdb.org/t/p/w300/mhvvAp1QtEdrPlVnAslLjzb8hf0.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 11",
+        "src": "https://image.tmdb.org/t/p/w300/pJa1yqkBtluMoCkEBQh36PQPC0n.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 12",
+        "src": "https://image.tmdb.org/t/p/w300/1fAFsy6JJUj0ZMsGXdzXBIDz0tZ.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 13",
+        "src": "https://image.tmdb.org/t/p/w300/nsANoaiOfiOxV614FaVdwKVd0UE.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 14",
+        "src": "https://image.tmdb.org/t/p/w300/cCHl1ruaRkx5cqmMgV2Xekoafli.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 15",
+        "src": "https://image.tmdb.org/t/p/w300/9t3LkJuW7oO8xngYBfMYD7PkuNW.jpg"
+      },
+      {
+        "episodio": "Poster for Episodio 16",
+        "src": "https://image.tmdb.org/t/p/w300/f0g5J1p2iHru2QqtBgWOYUKYlS9.jpg"
+      }
+    ],
+    "capitulos": [
+      {
+        "numero": 1,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/1",
+        "iframeSrc": "https://s.uuidksinc.net/match/1411/?remote_uid=6969471389586536680"
+      },
+      {
+        "numero": 2,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/2",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 3,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/3",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 4,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/4",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 5,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/5",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 6,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/6",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 7,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/7",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 8,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/8",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 9,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/9",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 10,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/10",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 11,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/11",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 12,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/12",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 13,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/13",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 14,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/14",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 15,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/15",
+        "iframeSrc": "javascript:false"
+      },
+      {
+        "numero": 16,
+        "urlPagina": "https://www.pandrama.tv/titulo/24/que-le-ocurre-a-la-secretaria-kim/temporada/1/episodio/16",
+        "iframeSrc": "javascript:false"
+      }
+    ]
+  }
+]
